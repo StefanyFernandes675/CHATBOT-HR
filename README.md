@@ -6,6 +6,9 @@ Criar um chatbot que possa realizar triagem inicial de candidatos a vagas de emp
 
 Atividade desenvolvida na disciplina de Processamento de Linguagem Natural (PLN).
 
+## 👁️ Preview
+
+Para dar uma olhadinha no nosso projeto, basta clicar nesse [link](https://stefanyfernandes675.github.io/CHATBOT-HR/) para ser redirecionado para o GitHub Pages.
 
 ## 💻 Autores
 
