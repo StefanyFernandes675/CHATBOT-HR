@@ -14,7 +14,7 @@ Para dar uma olhadinha no nosso projeto, basta clicar nesse [link](https://stefa
 
 - [João Pedro Baeta - @scrollingdown](https://github.com/scrollingdown)
 - [Josiel Santana - @josielsantana](https://github.com/josielsantana)
-- Jules Severo
+- [Jules Severo - @JulesSevero](https://github.com/JulesSevero)
 - [Stefany Fernandes - @StefanyFernandes675](https://github.com/StefanyFernandes675)
 
 ## 🧭 Orientador
